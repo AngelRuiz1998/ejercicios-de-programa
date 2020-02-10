@@ -1,0 +1,9 @@
+#include<istream>
+using namespace.std;
+int main(){
+int n;
+int r;
+cin>>n;
+cout<<n<<"primo"<<endl;
+return 0;
+}
